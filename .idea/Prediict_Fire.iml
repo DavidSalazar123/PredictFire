@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager">
+    <orderEntry type="jdk" jdkName="Python 3.9 (base)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="PredictFire" />
+    <orderEntry type="module" module-name="needledrop" />
+    <orderEntry type="module" module-name="NeedleDrop" />
+    <orderEntry type="module" module-name="NNPredict" />
+    <orderEntry type="module" module-name="NNFire" />
+    <orderEntry type="module" module-name="Fire Project" />
+  </component>
+</module>

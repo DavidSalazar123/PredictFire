@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Fire Project/.idea/Fire Project.iml" filepath="$PROJECT_DIR$/../Fire Project/.idea/Fire Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Fire Project/NNFire/.idea/NNFire.iml" filepath="$PROJECT_DIR$/../Fire Project/NNFire/.idea/NNFire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Fire Project/NNPredict/.idea/NNPredict.iml" filepath="$PROJECT_DIR$/../Fire Project/NNPredict/.idea/NNPredict.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NeedleDrop/.idea/NeedleDrop.iml" filepath="$PROJECT_DIR$/../NeedleDrop/.idea/NeedleDrop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PredictFire.iml" filepath="$PROJECT_DIR$/.idea/PredictFire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Prediict_Fire.iml" filepath="$PROJECT_DIR$/.idea/Prediict_Fire.iml" />
+      <module fileurl="file://$APPLICATION_CONFIG_DIR$/projects/needledrop/.idea/needledrop.iml" filepath="$APPLICATION_CONFIG_DIR$/projects/needledrop/.idea/needledrop.iml" />
+    </modules>
+  </component>
+</project>
